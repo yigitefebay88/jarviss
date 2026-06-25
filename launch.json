@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "JARVIS",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "python": "C:\\Users\\Tuna\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+            "console": "integratedTerminal"
+        }
+    ]
+}
